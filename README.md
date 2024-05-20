@@ -24,8 +24,8 @@ Enjoy exploring datasets and finding useful insights to solve business problems
 
 **University of Economics Ho Chi Minh city** - Investment Economics (October 2020 - July 2024)
 
-GPA:3.39/4.0. Related coursework: 
+GPA: 3.39/4.0. Related coursework: 
 
 **Data Analyst Coaching 1 on 1 Program** - Unigap (May 2024)
 
-Completed 16 Datacamp courses and finished 8 hands-on projects from beginner to advanced level (SQL, Power BI, Python, Machine Learning); Joined problem-solving and design thinking training sessions
+Completed 18 Datacamp courses and finished 8 hands-on projects from beginner to advanced level (SQL, Power BI, Python, Machine Learning); Joined problem-solving and design thinking training sessions
